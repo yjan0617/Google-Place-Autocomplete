@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975024319940",
+    "project_id": "test-6da6c",
+    "storage_bucket": "test-6da6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975024319940:android:a0d161a067b500b597c891",
+        "android_client_info": {
+          "package_name": "com.placeautocompleteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0jooPpDJFp_eBl20wCtOOVvOFdkF380"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
